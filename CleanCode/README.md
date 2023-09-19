@@ -1,5 +1,5 @@
 # Sumary of 'Clean Code' by Robert C. Martin  
-[Original note]: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29  
+[Original note]: (https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)    
 Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
 _____________________________________
 
